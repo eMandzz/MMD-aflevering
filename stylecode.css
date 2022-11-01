@@ -6,6 +6,24 @@ body {
 	background-color: black;
 }
 
-div.white {
-	font-size: 200%;
+
+.white {
+	font-size: 50px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	width: 40%;
+	
+	
+}
+
+img {
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+  	width: 30%;
+	height: auto;
+	
 }
