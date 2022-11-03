@@ -30,32 +30,26 @@ img {
 	
 }
 
-.square_1 {
-	background-color: white;
+.flexbox p {
+	background-color: lightgray;
+	font-size: 25px;
+	margin-top: 70px;
+	margin-right: 10px;
+	margin-bottom: 70px;
+	margin-left: 10px;
+	width: 350px;
 	height: 400px;
-	width: 200px;
+	text-align: center;
 }
 
-.square_2 {
+.flexbox {
 	background-color: white;
-	height: 400px;
-	width: 200px;
-}
-
-.square_3 {
-	background-color: white;
-	height: 400px;
-	width: 200px;
-}
-
-.square_4 {
-	background-color: white;
-	height: 400px;
-	width: 200px;
-}
-
-.square_5 {
-	background-color: white;
-	height: 400px;
-	width: 200px;
+	display: flex;
+	flex-flow: nowrap;
+	justify-content: space-around;
+	align-items: flex-end;
+	position: relative;
+	top: 15em;
+	
+	
 }
