@@ -29,3 +29,9 @@ img {
 	height: auto;
 	
 }
+
+.square_1 {
+	background-color: white;
+	height: 400px;
+	width: 200px;
+}
